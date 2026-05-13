@@ -47,7 +47,7 @@ Infra & AI  → Docker · Kubernetes · Airflow · MCP · Claude Code · Codex
 
 - 🌐 GitHub — **[@mohitpatell](https://github.com/mohitpatell)**
 - 📧 Email — **mohitpatel9753@gmail.com**
-- 📍 Indore, India
+- 📍 Bengaluru, India
 
 ---
 
